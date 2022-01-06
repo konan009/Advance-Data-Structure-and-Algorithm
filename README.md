@@ -3,4 +3,4 @@ This repository is collection of my answer of various questions to activities in
 
 Here is some output from the project itself :
 
-![automaton](Project/ouput.png)
+![image](Project/output.png)
